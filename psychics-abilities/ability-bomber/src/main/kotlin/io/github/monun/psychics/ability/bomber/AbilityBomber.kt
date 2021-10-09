@@ -9,9 +9,9 @@ import io.github.monun.psychics.damage.DamageType
 import io.github.monun.psychics.damage.psychicDamage
 import io.github.monun.psychics.tooltip.TooltipBuilder
 import io.github.monun.psychics.util.TargetFilter
-import io.github.monun.tap.config.Config
-import io.github.monun.tap.config.Name
-import io.github.monun.tap.fake.FakeEntity
+import com.github.noonmaru.tap.config.Config
+import com.github.noonmaru.tap.config.Name
+import com.github.noonmaru.tap.fake.FakeEntity
 import net.kyori.adventure.text.Component.text
 import net.kyori.adventure.text.format.NamedTextColor
 import net.kyori.adventure.text.format.TextDecoration
