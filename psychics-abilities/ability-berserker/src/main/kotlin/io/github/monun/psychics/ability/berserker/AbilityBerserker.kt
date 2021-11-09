@@ -1,4 +1,4 @@
-package io.github.monun.psychics.ability.berserker
+package com.github.noonmaru.psychics.ability.berserker
 
 import io.github.monun.psychics.AbilityConcept
 import io.github.monun.psychics.ActiveAbility
